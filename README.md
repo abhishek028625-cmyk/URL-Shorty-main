@@ -92,18 +92,22 @@ Copy the generated short URL and share it.
 Check your dashboard to see the click count for each link.
 
 📸 Screenshots (Optional)
+
 1.Registration page
+
 <img width="1905" height="912" alt="image" src="https://github.com/user-attachments/assets/58d6fd50-dfdb-4688-b40d-7229e0f4e090" />
 2.Login page
+
 <img width="1883" height="907" alt="image" src="https://github.com/user-attachments/assets/1e278bee-5fac-4117-9ec0-cb22508e3cd7" />
 3.Shortner page
+
 <img width="1878" height="899" alt="image" src="https://github.com/user-attachments/assets/c4decdf3-bdf8-4bf5-b474-6799bf8d41b3" />
     
-🧑‍💻 Author
+🧑‍💻 Author :-Abhishek 
 
-Abhishek (Technology Abhi)
 
 💪 YouTube: abhifitz6
+
 
 ✨ GitHub: abhishek028625/cmyk
 
